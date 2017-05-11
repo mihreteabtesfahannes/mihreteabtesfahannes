@@ -24,7 +24,8 @@
 					<li>Android Entwicklung</li>
 					<li>Netzwerke</li>	
 					<li>Linux Server mit Debian Gnu/Linux</li>
-					<li>Html</li>	
+					<li>Html</li>
+					<li>Hml</li>	
 					<li>CSS</li>
 					<li>Python</li>	
 					<li>C++</li>
@@ -42,10 +43,17 @@
 					<li>Mobile Web</li>	
 					<li>Sozial Medien</li>	
 					<li>Marketing</li>
-									
-					
-					</td>
-							</ul>
+									</td>
+										</ul>
+										
+										
+										<ul>  
+			<td>
+
+			<li> <a href= "home.html" > Home	</li>
+						</td>
+ 							</ul>
+
 
 	</body>
 
